@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string
+    name="app_name">IntentoCriminal</string>
+    <string name="crime_title_hint">Ввести
+название преступления</string>
+    <string
+        name="crime_title_label">название</string>
+    <string
+        name="crime_details_label">детали</string>
+    <string
+        name="crime_solved_label">Solucionado</string>
+    <string name="new_crime">Преступность
+Недавно в</string>
+    <string name="crime_suspect_text">Elegir
+Sospechoso</string>
+    <string name="crime_report_text">Посылать
+Отчет о преступности</string>
+    <string name="crime_report">%1$s!
+Преступление было обнаружено на %2$s.
+%3$s, y %4$s</string>
+    <string name="crime_report_solved">раскрытое преступление</string>
+    <string name="crime_report_unsolved">сообщение о преступлении нераскрыто</string>
+    <string name="crime_report_no_suspect">отчет о преступлении _no_ подозреваемый</string>
+    <string name="crime_report_suspect">сообщение о преступлении подозреваемый</string>
+    <string
+        name="crime_report_subject">предмет сообщения о преступлении</string>
+    <string name="send_report">отправить репорт</string>
+    <string name="crime_photo_button_description">Take photo of crime scene</string>
+    <string name="crime_photo_no_image_description">Crime scene photo (not set)</string>
+    <string name="crime_photo_image_description">Crimescene photo (set)</string>
+</resources>
